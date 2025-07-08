@@ -34,4 +34,3 @@ This bot is not intended for general use outside of the Terraria-Servers project
 License
 This bot is part of the Terraria-Servers project and is released under a license that forbids misuse, repackaging, or unauthorized data handling. See LICENSE.md for details.
 
-Let me know if you need this translated into Russian, or if you want to add installation or usage instructions.
